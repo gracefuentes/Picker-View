@@ -3,7 +3,7 @@
 //  picker ViewUITests
 //
 //  Created by Sheyla Fuentes on 3/7/19.
-//  Copyright © 2018 Sheyla Fuentes. All rights reserved.
+//  Copyright © 2019 Sheyla Fuentes. All rights reserved.
 //
 
 import XCTest
