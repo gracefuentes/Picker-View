@@ -2,8 +2,8 @@
 //  picker_ViewTests.swift
 //  picker ViewTests
 //
-//  Created by Sheyla Fuentes on 4/19/18.
-//  Copyright © 2018 Sheyla Fuentes. All rights reserved.
+//  Created by Sheyla Fuentes on 3/7/19.
+//  Copyright © 2019 Sheyla Fuentes. All rights reserved.
 //
 
 import XCTest
